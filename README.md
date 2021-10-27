@@ -1,2 +1,2 @@
 # sin-uso-espesifico
-no tiene un uso mas que el de probar.
+no tiene un uso:https://victor2c2r.github.io/sin-uso-espesifico/
